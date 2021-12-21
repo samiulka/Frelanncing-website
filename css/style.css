@@ -1,0 +1,37 @@
+ul li:hover a{
+    background-color: green;
+    transition: 0.5s;
+}
+#hovr::hover{
+    background-color: red;
+}
+#social{
+    margin-left: -42px;
+    margin-top: 21px;
+}
+#social li{
+    list-style: none;
+    display: inline;
+    padding: 4px;
+}
+#social li a {
+    padding: 3px 13px;
+    margin: 1px;
+    background: skyblue;
+    display: inline;
+    float: left;
+}
+table th,td{
+    padding: 10px;;
+}
+footer{
+    background-color: green;
+    color: white;
+    
+}
+footer .row{
+    padding-top: 50px;
+}
+.first{
+    padding: 10px;
+}
